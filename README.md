@@ -3,8 +3,8 @@
 
 ---
 
-🎯 MS in Quality Management Science (ISI Bangalore) 
-🎯 MSc in Enery Science (IIT Bombay)  
+🎯 MS (Statistical Quality Control & Operations Research Unit) (ISI Bangalore) 
+🎯 MSc (Energy Science) (IIT Bombay)  
 💼 Ex-Blackstraw.AI | Ex-MBB Labs  
 🔬 Credit Risk | ML/NLP | LangChain & RAG | Real-world problem solver  
 📍 Based in India | Always learning 🚀
